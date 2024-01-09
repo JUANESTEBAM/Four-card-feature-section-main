@@ -1,0 +1,26 @@
+.card {
+  position: relative;
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  border-top-style: solid;
+  border-top-width: 5px;
+  max-width: 350px;
+  width: 100%;
+  min-height: 15rem;
+  height: 30%;
+  place-self: center;
+}
+/* .card-info {
+  margin: 20px;
+}
+.card-info h1 {
+  font-size: 1.2rem;
+  color: hsl(234, 12%, 34%);
+}
+.card-info p {
+  color: hsl(229, 6%, 66%);
+  font-size: 13px;
+  line-height: 1.5rem;
+  padding-top: 9px;
+} */
